@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
@@ -51,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
