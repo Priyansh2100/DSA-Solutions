@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,4 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
