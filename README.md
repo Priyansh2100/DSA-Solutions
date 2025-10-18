@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0169-majority-element) |
+| [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## String Matching
 |  |
 | ------- |
