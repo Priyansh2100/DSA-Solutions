@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0048-rotate-image) |
 ## Simulation
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
