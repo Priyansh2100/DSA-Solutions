@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0202-happy-number) |
 ## Simulation
 |  |
