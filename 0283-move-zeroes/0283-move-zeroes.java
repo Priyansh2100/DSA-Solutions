@@ -25,6 +25,9 @@ class Solution {
                 break;
             }
         }
+         if (j == -1) {
+            return;
+        }
 
         for(i= j+1;i<n;i++){
             if(nums[i]!=0){
