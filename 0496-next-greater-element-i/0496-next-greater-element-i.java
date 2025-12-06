@@ -1,8 +1,12 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+
         Map<Integer,Integer> map=new HashMap<>();
+
         Stack<Integer> st=new Stack<>();
+
         int n=nums2.length;
+        
         for(int i=n-1;i>=0;i--){
             while(!st.empty()&&nums2[i]>=st.peek()){
                 st.pop();
