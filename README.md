@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1514-path-with-maximum-probability](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Tree
 |  |
