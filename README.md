@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0547-number-of-provinces) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0100-same-tree) |
 | [0210-course-schedule-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
