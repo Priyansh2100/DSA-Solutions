@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0134-gas-station) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Queue
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0146-lru-cache) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
