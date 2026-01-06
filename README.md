@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1834-single-threaded-cpu](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
