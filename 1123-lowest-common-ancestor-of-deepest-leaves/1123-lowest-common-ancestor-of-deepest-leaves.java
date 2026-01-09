@@ -15,38 +15,35 @@
  */
 class Solution {
 
-       Map<Integer, Integer> mp = new HashMap<>();
-    int maxD = 0;
+    class Pair {
+        int depth;
+        TreeNode node;
 
-    void depth(TreeNode root, int d) {
-        if (root == null) {
-            return;
+        Pair(int depth, TreeNode node){
+            this.depth = depth;
+            this.node = node;
         }
-
-        maxD = Math.max(maxD, d);
-        mp.put(root.val, d);
-        depth(root.left, d + 1);
-        depth(root.right, d + 1);
     }
-
-
-    TreeNode LCA(TreeNode root) {
-        if (root == null || mp.getOrDefault(root.val, -1) == maxD) {
-            return root;
+    Pair solve(TreeNode root){
+        if(root == null){
+            return new Pair(0,null);
         }
 
-        TreeNode l = LCA(root.left);
-        TreeNode r = LCA(root.right);
+        Pair l = solve(root.left);
+        Pair r = solve(root.right);
 
-        if (l != null && r != null) {
-            return root;
+        if(l.depth == r.depth){
+            return new Pair(l.depth+1,root);
+        }
+        else if(l.depth>r.depth){
+            return new Pair(l.depth+1,l.node);
+        }
+        else{
+            return new Pair(r.depth+1,r.node);
         }
 
-        return l != null ? l : r;
     }
-
     public TreeNode lcaDeepestLeaves(TreeNode root) {
-        depth(root, 0);
-        return LCA(root);
+        return solve(root).node;
     }
 }
