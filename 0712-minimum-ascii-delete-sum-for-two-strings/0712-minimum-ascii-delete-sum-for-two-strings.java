@@ -1,42 +1,53 @@
 class Solution {
-    int m, n;
+
     int[][] t;
 
-    private int solve(String s1, String s2, int i, int j) {
-        if (i >= m && j >= n)
+    public int solve(int i, int j, String s1, String s2) {
+
+        // Base cases
+        if (i == s1.length() && j == s2.length()) {
             return 0;
+        }
 
-        if (t[i][j] != -1)
+        if (i == s1.length()) {
+            return s2.charAt(j) + solve(i, j + 1, s1, s2);
+        }
+
+        if (j == s2.length()) {
+            return s1.charAt(i) + solve(i + 1, j, s1, s2);
+        }
+
+        // Memoization check
+        if (t[i][j] != -1) {
             return t[i][j];
-
-        if (i >= m) {
-            return t[i][j] = s2.charAt(j) + solve(s1, s2, i, j + 1);
-        } 
-        if (j >= n) {
-            return t[i][j] = s1.charAt(i) + solve(s1, s2, i + 1, j);
         }
 
+        // If characters are equal → no delete cost
         if (s1.charAt(i) == s2.charAt(j)) {
-            return t[i][j] = solve(s1, s2, i + 1, j + 1);
+            t[i][j] = solve(i + 1, j + 1, s1, s2);
+        } 
+        else {
+            // Delete from s1 OR delete from s2
+            int deleteFromS1 = s1.charAt(i) + solve(i + 1, j, s1, s2);
+            int deleteFromS2 = s2.charAt(j) + solve(i, j + 1, s1, s2);
+
+            t[i][j] = Math.min(deleteFromS1, deleteFromS2);
         }
 
-        int takeS1 = s1.charAt(i) + solve(s1, s2, i + 1, j);
-        int takeS2 = s2.charAt(j) + solve(s1, s2, i, j + 1);
-
-        return t[i][j] = Math.min(takeS1, takeS2);
+        return t[i][j];
     }
 
     public int minimumDeleteSum(String s1, String s2) {
-        m = s1.length();
-        n = s2.length();
 
-        t = new int[m + 1][n + 1];
-        for (int i = 0; i <= m; i++) {
-            for (int j = 0; j <= n; j++) {
-                t[i][j] = -1;
-            }
+        int m = s1.length();
+        int n = s2.length();
+
+        t = new int[m][n];
+
+        for (int[] row : t) {
+            Arrays.fill(row, -1);
         }
 
-        return solve(s1, s2, 0, 0);
+        return solve(0, 0, s1, s2);
     }
 }
