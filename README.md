@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0496-next-greater-element-i) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0198-house-robber) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
