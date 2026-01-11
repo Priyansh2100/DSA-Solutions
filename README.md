@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
