@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1834-single-threaded-cpu](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [3453-separate-squares-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3453-separate-squares-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3453-separate-squares-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3453-separate-squares-i) |
 ## String Matching
 |  |
 | ------- |
