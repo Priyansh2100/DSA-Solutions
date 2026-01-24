@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1544-make-the-string-great](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
 | [1328-break-a-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1328-break-a-palindrome) |
+| [1544-make-the-string-great](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
