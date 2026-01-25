@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1834-single-threaded-cpu](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3453-separate-squares-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1834-single-threaded-cpu](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
