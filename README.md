@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1328-break-a-palindrome) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1328-break-a-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1328-break-a-palindrome) |
 | [1544-make-the-string-great](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
