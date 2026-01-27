@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1328-break-a-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Queue
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0991-broken-calculator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1390-four-divisors) |
+| [1903-largest-odd-number-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Prefix Sum
 |  |
