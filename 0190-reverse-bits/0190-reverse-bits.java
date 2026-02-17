@@ -3,11 +3,12 @@ class Solution {
          int result = 0;
         
         for (int i = 0; i < 32; i++) {
-            result <<= 1;          // shift result left
-            
-            result |= (n & 1);     // take last bit of n
-            
-            n >>>= 1;              // unsigned right shift
+            int lsb = n & 1;                 // get last bit
+            int reverseLsb = lsb << (31 - i); // move it to correct reversed position
+
+            result = result | reverseLsb;    // add it to result
+
+            n = n >> 1;               // unsigned right shift
         }
         
         return result;
