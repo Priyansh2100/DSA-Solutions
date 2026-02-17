@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
