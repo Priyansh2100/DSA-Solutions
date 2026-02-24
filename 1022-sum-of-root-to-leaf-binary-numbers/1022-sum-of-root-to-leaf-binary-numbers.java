@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-     int solve(TreeNode root, int val) {
+    public int sumRootToLeaf(TreeNode root) {
+        return solve(root,0);
+        
+    }
+    public int solve(TreeNode root, int value){
 
-        if (root == null) {
+         if (root == null) {
             return 0;
         }
 
-        val = (2 * val) + root.val;
+        value = (value * 2) + root.val;
 
-        // If leaf node
         if (root.left == null && root.right == null) {
-            return val;
+            return value;
         }
-
-        return solve(root.left, val) + solve(root.right, val);
-    }
-    
-     public int sumRootToLeaf(TreeNode root) {
-        return solve(root, 0);
+        return solve(root.left,value) + solve(root.right,value);
     }
 }
