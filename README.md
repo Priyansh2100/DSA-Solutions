@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0991-broken-calculator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -536,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
