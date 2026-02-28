@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0991-broken-calculator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1390-four-divisors) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1603-design-parking-system) |
 | [1646-get-maximum-in-generated-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -541,4 +543,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
