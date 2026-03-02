@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0991-broken-calculator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
