@@ -1,24 +1,24 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        int n = temperatures.length;
-        Stack<Integer> st = new Stack<>();
-        
-        int[] result = new int[n];
-        
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && temperatures[i] >= temperatures[st.peek()]) {
-                st.pop();
+        Stack<Integer> stk = new Stack<>();
+        int[] arr = new int[temperatures.length];
+
+        for (int i = temperatures.length - 1; i >= 0; i--) {
+
+            while (!stk.isEmpty() && 
+                   temperatures[stk.peek()] <= temperatures[i]) {
+                stk.pop();
             }
-            
-            if (st.isEmpty()) {
-                result[i] = 0;
+
+            if (stk.isEmpty()) {
+                arr[i] = 0;
             } else {
-                result[i] = st.peek() - i; // days
+                arr[i] = stk.peek() - i;   // 🔥 distance calculation
             }
-            
-            st.push(i);
+
+            stk.push(i);  // 🔥 push index, not temperature
         }
-        
-        return result;
+
+        return arr;
     }
 }
