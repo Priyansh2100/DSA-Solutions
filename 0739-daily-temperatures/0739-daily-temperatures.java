@@ -13,10 +13,10 @@ class Solution {
             if (stk.isEmpty()) {
                 arr[i] = 0;
             } else {
-                arr[i] = stk.peek() - i;   // 🔥 distance calculation
+                arr[i] = stk.peek() - i;   
             }
 
-            stk.push(i);  // 🔥 push index, not temperature
+            stk.push(i);  
         }
 
         return arr;
