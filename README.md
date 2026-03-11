@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0053-maximum-subarray) |
@@ -567,5 +568,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0046-permutations) |
 | [1980-find-unique-binary-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
