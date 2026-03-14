@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1328-break-a-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1328-break-a-palindrome) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1544-make-the-string-great](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -576,5 +577,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0046-permutations) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
