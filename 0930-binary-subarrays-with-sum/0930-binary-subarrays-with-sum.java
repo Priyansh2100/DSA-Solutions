@@ -1,22 +1,35 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1); // base case
-
-        int sum = 0;
+        int l = 0;
+        int r = 0;
         int count = 0;
+        int sum = 0;
 
-        for (int num : nums) {
-            sum += num;
+        while (r < nums.length) {
 
-            if (map.containsKey(sum - goal)) {
-                count += map.get(sum - goal);
+            sum += nums[r];
+
+            // shrink if sum > goal
+            while (l < r && sum > goal) {
+                sum -= nums[l];
+                l++;
             }
 
-            map.put(sum, map.getOrDefault(sum, 0) + 1);
-        }
+            // count all valid subarrays ending at r
+            if (sum == goal) {
+                count++;
 
+                int temp = l;
+                // handle leading zeros
+                while (temp < r && nums[temp] == 0) {
+                    count++;
+                    temp++;
+                }
+            }
+
+            r++;
+        }
         return count;
     }
 }
