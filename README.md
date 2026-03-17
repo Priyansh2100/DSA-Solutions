@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
