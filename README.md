@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1514-path-with-maximum-probability](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1646-get-maximum-in-generated-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Tree
 |  |
