@@ -1,6 +1,21 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
 
-    public boolean isSameTree(TreeNode p, TreeNode q) {
+        public boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == null && q == null) return true;
 
         if (p == null || q == null) return false;
@@ -11,25 +26,25 @@ class Solution {
                isSameTree(p.right, q.right);
     }
 
-    public TreeNode invertTree(TreeNode root) {
-        if (root == null) return null;
+    public TreeNode invertTree(TreeNode root){
+        if(root == null) return null;
 
-        TreeNode left = invertTree(root.left);
-        TreeNode right = invertTree(root.right);
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
 
-        root.left = right;
-        root.right = left;
+        invertTree(root.left);
+        invertTree(root.right);
 
         return root;
+
     }
-
     public boolean isSymmetric(TreeNode root) {
-        if (root == null) return true;
+        if(root == null) return true;
 
-        // invert left subtree
-        TreeNode invertedLeft = invertTree(root.left);
+        TreeNode invertleft = invertTree(root.left);
 
-        // compare with right subtree
-        return isSameTree(invertedLeft, root.right);
+        return isSameTree(invertleft, root.right);
+
     }
 }
