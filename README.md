@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2906-construct-product-matrix](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3453-separate-squares-i) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2906-construct-product-matrix](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Tree
 |  |
