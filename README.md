@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0739-daily-temperatures) |
+| [0833-find-and-replace-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0874-walking-robot-simulation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
+| [0833-find-and-replace-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0833-find-and-replace-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0796-rotate-string) |
+| [0833-find-and-replace-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
