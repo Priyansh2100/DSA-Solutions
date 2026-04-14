@@ -5,7 +5,7 @@ class Solution {
 
         int n = tasks.length;
 
-        // step 1: store tasks with index
+        // store tasks with index
         int[][] arr = new int[n][3];
         for (int i = 0; i < n; i++) {
             arr[i][0] = tasks[i][0]; // enqueueTime
@@ -13,10 +13,10 @@ class Solution {
             arr[i][2] = i;           // index
         }
 
-        // step 2: sort by enqueueTime
+        // sort by enqueueTime
         Arrays.sort(arr, (a, b) -> a[0] - b[0]);
 
-        // step 3: min heap (processingTime, index)
+        // min heap (processingTime, index)
         PriorityQueue<int[]> pq = new PriorityQueue<>(
             (a, b) -> {
                 if (a[1] != b[1]) return a[1] - b[1];
