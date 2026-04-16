@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3488-closest-equal-element-queries](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3453-separate-squares-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## String Matching
 |  |
 | ------- |
