@@ -1,44 +1,52 @@
 class Solution {
-    static class Pair{
-        int row;
-        int col;
-        int prow;
-        int pcol;
-        Pair(int row,int col,int prow,int pcol){
-            this.row=row;
-            this.col=col;
-            this.prow=prow;
-            this.pcol=pcol;
+    int m, n;
+    int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+    
+    public boolean cycleDetectDFS(int r, int c, int prev_r, int prev_c,
+                                  char[][] grid, boolean[][] visited) {
+        
+        if (visited[r][c]) {
+            return true;
         }
-    }
-    public boolean containsCycle(char[][] grid) {
-        int n=grid.length,m=grid[0].length;
-        boolean[][]visited=new boolean[n][m];
-        int[]allowedRow={-1,0,1,0};
-        int[]allowedCol={0,1,0,-1};
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(!visited[i][j]){
-                    Queue<Pair>queue=new LinkedList<>();
-                    queue.offer(new Pair(i,j,-1,-1));
-                    visited[i][j]=true;
-                    while(!queue.isEmpty()){
-                        Pair cur=queue.poll();
-                        for(int index=0;index<4;index++){
-                            int newRow=cur.row+allowedRow[index];
-                            int newCol=cur.col+allowedCol[index];
-                            if(newRow>=0&&newRow<n&&newCol>=0&&newCol<m&&
-                            grid[newRow][newCol]==grid[cur.row][cur.col]){
-                                if(!visited[newRow][newCol]){
-                                    visited[newRow][newCol]=true;
-                                    queue.offer(new Pair(newRow,newCol,cur.row,cur.col));
-                                }else if(newRow!=cur.prow&&newCol!=cur.pcol)return true;
-                            }
-                        }
+
+        visited[r][c] = true;
+
+        for (int[] d : directions) {
+            int new_r = r + d[0];
+            int new_c = c + d[1];
+
+            if (new_r >= 0 && new_r < m && new_c >= 0 && new_c < n
+                && grid[new_r][new_c] == grid[r][c]) {
+
+                if (new_r == prev_r && new_c == prev_c) {
+                    continue;
+                } else {
+                    if (cycleDetectDFS(new_r, new_c, r, c, grid, visited)) {
+                        return true;
                     }
                 }
             }
         }
+
+        return false;
+    }
+
+    public boolean containsCycle(char[][] grid) {
+        m = grid.length;
+        n = grid[0].length;
+
+        boolean[][] visited = new boolean[m][n];
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (!visited[i][j]) {
+                    if (cycleDetectDFS(i, j, i, j, grid, visited)) {
+                        return true;
+                    }
+                }
+            }
+        }
+
         return false;
     }
 }
