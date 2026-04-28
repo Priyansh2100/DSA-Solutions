@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1834-single-threaded-cpu](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
