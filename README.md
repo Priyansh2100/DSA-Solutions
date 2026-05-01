@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1603-design-parking-system) |
