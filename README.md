@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
