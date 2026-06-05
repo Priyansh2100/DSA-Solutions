@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0833-find-and-replace-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0853-car-fleet) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
