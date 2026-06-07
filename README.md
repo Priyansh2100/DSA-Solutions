@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0198-house-robber) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
