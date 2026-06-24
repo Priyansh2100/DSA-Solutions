@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
