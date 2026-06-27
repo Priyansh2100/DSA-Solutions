@@ -1,15 +1,6 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        
         ListNode dummy = new ListNode(0); // Dummy node to simplify list handling
         ListNode temp = dummy; // Pointer to build the new list
         int carry = 0;
