@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0182-duplicate-emails) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1667-fix-names-in-a-table](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union-Find
