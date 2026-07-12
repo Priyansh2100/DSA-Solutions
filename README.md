@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1834-single-threaded-cpu](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -793,4 +798,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
