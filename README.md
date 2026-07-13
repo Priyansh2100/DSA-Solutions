@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1667-fix-names-in-a-table](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Priyansh2100/DSA-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union-Find
 |  |
