@@ -1,20 +1,26 @@
 class Solution {
 
+    Boolean[][] dp;
+
      private boolean solve(int i,int j,String s){
 
-            while(i<=j){
-
-                if(s.charAt(i)==s.charAt(j)){
-                    i++;
-                    j--;
-                }
-                else{
-                    return false;
-                }
-            }
+            if (i >= j)
             return true;
+
+        if (dp[i][j] != null)
+            return dp[i][j];
+
+        if (s.charAt(i) != s.charAt(j))
+            return dp[i][j] = false;
+
+        return dp[i][j] = solve(i + 1, j - 1, s);
+
         }
     public String longestPalindrome(String s) {
+
+        int n = s.length();
+
+        dp = new Boolean[n][n];
 
         int max=0;
         int startPoint = 0;
