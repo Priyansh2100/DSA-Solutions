@@ -1,24 +1,30 @@
 class Solution {
 
+    static int[] dp;
 
-    public int solve(int[] nums , int i, int dp[]){
-        int n = nums.length;
-        if(i>=n){
+    public int maxrob(int[] nums,int n){
+
+        if(n<0){
             return 0;
         }
-        if(dp[i]!=-1){
-            return dp[i];
+
+        if(n==0){
+            return nums[n];
         }
 
-        int steal = nums[i] + solve(nums,i+2,dp);
-        int  skip = solve(nums,i+1,dp);
+        if(dp[n]!=-1) return dp[n];
 
-        return dp[i] = Math.max(steal,skip);
+        dp[n] = Math.max(nums[n] + maxrob(nums,n-2),maxrob(nums,n-1));
+
+        return Math.max(nums[n] + maxrob(nums,n-2),maxrob(nums,n-1));
     }
     public int rob(int[] nums) {
+        int n = nums.length;
 
-        int dp[] = new int[nums.length+1];
+        dp = new int[n];
+
         Arrays.fill(dp,-1);
-       return solve(nums,0,dp);
+
+        return Math.max(maxrob(nums,n-1),maxrob(nums,n-2));
     }
 }
