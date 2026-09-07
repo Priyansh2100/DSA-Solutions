@@ -1,0 +1,26 @@
+class Solution {
+    public int countSquares(int[][] matrix) {
+        
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        int count =0;
+
+        for(int i =0;i<m;i++){
+            for(int j =0;j<n;j++){
+
+                if(matrix[i][j] == 0) continue;
+
+                if(i>0 && j >0){
+
+                    // +1 add , kuike current cell ka bhi 1 add hoga
+                    matrix[i][j] = 1 + Math.min(matrix[i-1][j],Math.min(matrix[i-1][j-1],matrix[i][j-1]));
+                }
+
+                count = count + matrix[i][j];
+                
+            }
+        }
+        return count;
+    }
+}
