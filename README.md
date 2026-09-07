@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1390-four-divisors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1931-painting-a-grid-with-three-different-colors) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
