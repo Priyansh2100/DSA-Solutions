@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0899-orderly-queue](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0899-orderly-queue) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -879,4 +882,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
