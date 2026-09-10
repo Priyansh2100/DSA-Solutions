@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Database
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -906,4 +910,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
