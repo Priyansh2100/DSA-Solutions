@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0796-rotate-string) |
 | [0833-find-and-replace-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0833-find-and-replace-in-string) |
@@ -920,5 +922,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
