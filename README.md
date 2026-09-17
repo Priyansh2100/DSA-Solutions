@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0567-permutation-in-string) |
