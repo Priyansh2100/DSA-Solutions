@@ -931,5 +931,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
