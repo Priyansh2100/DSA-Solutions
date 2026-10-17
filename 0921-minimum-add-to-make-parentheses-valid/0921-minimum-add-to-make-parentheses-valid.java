@@ -8,13 +8,15 @@ class Solution {
             char ch = s.charAt(i);
             if(ch == '('){
                 stk.push(ch);
-            }else if(!stk.isEmpty()){
-                stk.pop();
-            }else{
-               open++;
             }
-        }
+            else if(!stk.isEmpty() && stk.peek()=='('){
+                stk.pop();
+            }
+            else{
+                stk.push(ch);
+            }
 
-        return open + stk.size();
+        }
+         return stk.size();
     }
 }
