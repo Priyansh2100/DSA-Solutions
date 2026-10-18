@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1603-design-parking-system) |
 ## Iterator
 |  |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
