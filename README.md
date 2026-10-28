@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0231-power-of-two) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
