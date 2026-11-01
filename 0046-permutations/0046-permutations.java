@@ -17,11 +17,14 @@ class Solution {
 
             if (!set.contains(nums[i])) {
 
+                //STEP : DO SOMETHING 
                 temp.add(nums[i]);
                 set.add(nums[i]);
-
+                
+                //STEP 2 : EXPLORE
                 solve(temp, nums);
 
+                //STEP 3 : REVERT STEP-1 & FURTHER EXPLORE
                 set.remove(nums[i]);
                 temp.remove(temp.size() - 1);
             }
