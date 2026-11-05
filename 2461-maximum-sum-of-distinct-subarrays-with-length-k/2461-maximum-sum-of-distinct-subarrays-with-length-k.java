@@ -1,32 +1,42 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-         int i = 0, j = 0;
+
+        int count = 0;
+        long sum = 0;
         long result = 0;
-        long currWindowSum = 0;
+
         HashSet<Integer> set = new HashSet<>();
 
-        while (j < nums.length) {
-            // Adjust the window if nums[j] is already in the set
-            while (set.contains(nums[j])) {
-                currWindowSum -= nums[i];
-                set.remove(nums[i]);
-                i++;
+        int j = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+
+            // Remove duplicates
+            while (set.contains(nums[i])) {
+
+                sum -= nums[j];
+                set.remove(nums[j]);
+
+                j++;
+                count--;
             }
 
-            currWindowSum += nums[j];
-            set.add(nums[j]);
+            // Add current element
+            sum += nums[i];
+            set.add(nums[i]);
+            count++;
 
-            // Check if the window size is equal to k
-            if (j - i + 1 == k) {
-                result = Math.max(result, currWindowSum);
+            // Window size becomes k
+            if (count == k) {
 
-                // Shrink the window from the left
-                currWindowSum -= nums[i];
-                set.remove(nums[i]);
-                i++;
+                result = Math.max(result, sum);
+
+                sum -= nums[j];
+                set.remove(nums[j]);
+
+                j++;
+                count--;
             }
-
-            j++;
         }
 
         return result;
