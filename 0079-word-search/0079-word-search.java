@@ -41,3 +41,8 @@ class Solution {
         return false;
     }
 }
+
+
+//TC : O(M*N*4^L)
+
+//SC ; O(L)   L : LENGTH OF WORD
