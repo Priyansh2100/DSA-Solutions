@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0088-merge-sorted-array) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Priyansh2100/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Priyansh2100/DSA-Solutions/tree/master/0494-target-sum) |
